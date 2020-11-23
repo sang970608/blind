@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375316512022",
+    "firebase_url": "https://blind-cdb71.firebaseio.com",
+    "project_id": "blind-cdb71",
+    "storage_bucket": "blind-cdb71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375316512022:android:d393b5fbb6d125e20ae437",
+        "android_client_info": {
+          "package_name": "com.example.blind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375316512022-0c0p5jr67b2j0r657mg1gp5pn23vafdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blind",
+            "certificate_hash": "3556752d786b58b08298faefbdbdb973b2d4fcf2"
+          }
+        },
+        {
+          "client_id": "375316512022-ufgb6sdgnrrq828p904iivm49spddlct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51HlNb9nug0fyRM8mAHPiKKx8YXjo3TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375316512022-ufgb6sdgnrrq828p904iivm49spddlct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
